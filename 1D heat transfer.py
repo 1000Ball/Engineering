@@ -41,3 +41,4 @@ plt.plot(x_domain, lam_x(x_domain))
 plt.show()
 
 ## I don't plan to use SymPy like this again. Symbolic relationships are best for quick derivations and simplifications.
+## Maybe I'll make my own symbolic branch, it should be more straightforward to plug in numbers.
